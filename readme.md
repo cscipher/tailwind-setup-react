@@ -1,3 +1,3 @@
-#Tailwind setup shell script
+# Tailwind setup shell script
 
-##This is a shell script to setup tailwind over react app
+This is a shell script to setup tailwind over react app
